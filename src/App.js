@@ -71,7 +71,6 @@ const assetsData = [
 function App() {
   const [data] = useState(assetsData);
   const [cart, setCart] = useState("");
-  // console.log(data);
   return (
     <dataContext.Provider value={{ data, setCart, cart }}>
       <BrowserRouter>
