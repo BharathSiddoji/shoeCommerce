@@ -1,0 +1,20 @@
+.about{
+    text-align: center;
+    margin-top:50px ;
+}
+.title{
+    font-weight: bolder;
+    font-size: 32px;
+}
+.line{
+    width: 80vw;
+    margin-inline: auto;
+}
+.article{
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    color: lightslategrey;
+    margin-top: 20px;
+}
